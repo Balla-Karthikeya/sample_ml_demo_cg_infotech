@@ -1,16 +1,16 @@
-Import Libraries
-Load Dataset
-Data Cleaning
-Handle Missing Values
-Encoding
-Feature & Target Separation
-Train-Test Split
-Feature Scaling
-Model Building
-Model Training
-Prediction
-Model Evaluation (MAE, MSE, RMSE, R²)
-Data Visualization
-Save Model Using Joblib
-Load Saved Model
-Predict on New Data
+Import Libraries,
+Load Dataset,
+Data Cleaning,
+Handle Missing Values,
+Encoding,
+Feature & Target Separation,
+Train-Test Split,
+Feature Scaling,
+Model Building,
+Model Training,
+Prediction,
+Model Evaluation (MAE, MSE, RMSE, R²),
+Data Visualization,
+Save Model Using Joblib,
+Load Saved Model,
+Predict on New Data.
